@@ -1,1 +1,15 @@
-# cs35180
+java cECO 400 Assignment 2Operation Collect Data
+In this assignment you will need to find data to begin your research. There is no minimum or maximum in terms of word limit, but be sure to include all of the variables required in your research. This is dependent on your own research and you will be graded based on completeness of information and progress from your proposal and pitches.
+You will combine all of your datasets, clean that data and submit one dataset to me. For each item listed below, tell me which variables you transformed. DO NOT WAIT UNTIL THE LAST MINUTE. Cleaning data is tedious and takes a long time. Be sure that you have a copy of your original dataset that is separate from your “cleaned” dataset. You can clean your dataset with other methods other than stata.
+Your required files to submit are:1. Do file2. DTA file (the combined data file)3. Your log file that contains the data summaries requested4. Your doc/pdf file that contains answers to the above questions
+Rubric details:1) Write your current research question here. (5)2) Define all of the necessary variables that are needed in your research. If you must calculate a variable from other sources, describe how you will calculate it. (15 pts)a. Explain why these variables are needed to answer your research question.3) Document the data source for each of those variables with citations (APA format) and links to their website. (10 pts)4) Describe the data source for each of those variables including how each one is calculated and how the data source is collected. (10 pts)5) Download the datasets and import them in stat代 写ECO 400 Assignment 2 Operation Collect DataPython
+代做程序编程语言a –you must combine all of your datasources into one data file. (10 pts)6) No variable that is numeric should be “red” (hint: destring variable_name, replace ignore(,)  other values can be included to be replaced) If your variable is string, do nto convert it. (5 pts)7) Ensure that “missing” values are denoted as a “.” (NOT a 0 or NA or other value. hint: replace) (5pts)8) Summarize (statistically) each variable that you will be including in your regression/analysis. Include how many values are missing for each variable (hint: codebook or describe or sum ). (15pts)9) If you have binary or ordinal variables, ensure that in your “label” you have indicated what the numeric codes mean. In some cases, you may be generating a binary variable, make sure you include binary variables that you generated.  (ie if you have gender where 1 represents female, the label should look like “1=female” hint: label var) (5pts)a. Bonus points if you can define the label for each ordinal/binary value (hint: label def)10) ID variables should be transformed to be Stata readable (ie you need to generate a new variable that uses a numeric id code, hint: encode variable_string_name, gen(variable_code_name) (5 pts)11) Be sure that you document what you are doing with stata as best that you can. This means that you must include the commands that you used and write a short line about what that command does (using * around the text will ignore the code to be read). BE SURE TO INCLUDE YOUR NAME in the file. Follow the example provided in blackboard. (15 pts)
+
+
+
+
+
+
+
+         
+加QQ：99515681  WX：codinghelp  Email: 99515681@qq.com
